@@ -8,7 +8,6 @@ import com.imooc.product.dataobject.ProductInfo;
 import com.imooc.product.dto.CartDTO;
 import com.imooc.product.service.CategoryService;
 import com.imooc.product.service.ProductService;
-import com.netflix.discovery.converters.Auto;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

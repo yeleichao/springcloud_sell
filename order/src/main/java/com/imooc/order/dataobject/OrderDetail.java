@@ -24,6 +24,8 @@ public class OrderDetail {
 
     private String productId;
 
+    private String productName;
+
     private BigDecimal productPrice;
 
     private Integer productQuantity;//商品数量
